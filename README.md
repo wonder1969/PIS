@@ -4,5 +4,5 @@
 
 Группа ИУ5-24м
 
-[Лабораторная работа 1](https://github.com/wonder1969/PIS/tree/master/Lab1)
+[Лабораторная работа 1](https://github.com/wonder1969/PIS/tree/master/Lab1) Настройка Jupyter Notebook. TensorFlow
 ---
