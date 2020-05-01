@@ -6,3 +6,5 @@
 
 [Лабораторная работа 1](https://github.com/wonder1969/PIS/tree/master/Lab1) Настройка Jupyter Notebook. TensorFlow
 ---
+[Лабораторная работа 2](https://github.com/wonder1969/PIS/tree/master/Lab2) Логистическая регрессия и полносвязная сеть
+---
